@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/resources/views/index.blade.php"
-  to = "/"
+  from = "/*"
+  to = "/resources/views/index.blade.php"
   status = 301
   force = false
